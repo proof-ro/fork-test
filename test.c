@@ -17,3 +17,5 @@ int sub(int x, int y){
 int mul(int a, int b){
    return (a * b);
 }
+testing_monitor_fetcher
+int mul(int x, int y)
